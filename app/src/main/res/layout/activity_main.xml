@@ -25,5 +25,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Primer Comit en la rama developer" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pulse en la rama master" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
